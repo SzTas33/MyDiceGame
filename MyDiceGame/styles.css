@@ -1,0 +1,44 @@
+body{
+  background-color: #001253;
+  font-family: 'Pacifico', cursive;
+  color: #E14D2A;
+
+}
+
+h1{
+  text-align: center;
+  font-size: 4rem;
+}
+
+img{
+  width: 75%;
+}
+
+footer{
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 100px;
+  color: #3E6D9C;
+  text-align: center;
+}
+
+
+
+.dice-game{
+  text-align: center;
+}
+
+.player1, .player2{
+  display: inline-block;
+}
+
+.player-name{
+  font-size: 1.5rem;
+}
+
+.flag-image{
+  width: 10%;
+}
+
+.logo{
+  width: 10%;
+}
